@@ -1,2 +1,2 @@
 bin_PROGRAMS = simple
-simple_SOURCES = simple.c
+simple_SOURCES = simple.cpp
